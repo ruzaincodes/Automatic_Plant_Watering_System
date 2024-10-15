@@ -18,6 +18,20 @@ The system operates by reading the output from a soil moisture sensor. When the 
 
 ![Circuit Diagram](https://github.com/ruzaincooks/Automatic_Plant_Watering_System/blob/main/circuit.png)
 
+## Video Explanation
+
+🎥 **For a visual demonstration of the Automatic Plant Watering System and to see how it works in action, watch the video below:**
+
+[![Watch the Video on YouTube](https://img.youtube.com/vi/JUpM9l-fy8Y/0.jpg)](https://www.youtube.com/watch?v=JUpM9l-fy8Y)
+
+✨ This video provides a **step-by-step guide** and showcases the **functionality** of the system, including:
+
+- **Setup**: Learn how to assemble the components.
+- **Operation**: See the system in action as it waters the plants.
+- **Real-life Application**: Discover how it can be utilized in your gardening routine.
+
+Don't forget to like and subscribe for more projects!
+
 ## Code Explanation
 
 Here is a breakdown of the code used in this project:
